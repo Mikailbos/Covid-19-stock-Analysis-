@@ -4,7 +4,7 @@ This project contains a Jupyter Notebook that analyses the covariance, correlati
 🔍 Key Features:
 Downloaded historical stock price data for S&P 100 constituents
 
-Calculated daily returns and volatilities
+Calculated daily returns
 
 Compared theoretical vs empirical covariance matrices
 
